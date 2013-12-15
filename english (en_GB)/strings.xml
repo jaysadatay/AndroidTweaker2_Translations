@@ -34,8 +34,8 @@
     <string name="tips_tweaks_dont_enable_all">Do not enable all the tweaks proposed</string>
     <string name="tips_tweaks_time">Some tweaks take time to activate. Always wait for the SU msg to disappear!</string>
     <string name="tips_not_a_game">This is not a game. Use this app with your brain!</string>
-    <string name="tips_zipalign">You didn\'t zipalign your app yet! Zipalign decreases the RAM usage of your apps. Tap here to begin!</string>
-    <string name="tips_screenstate">This tool allows you to use the Android Tweaker 2 smart actions. Smart actions can be enabled through preferences panel (in app), a widget or the smart notification (activable in the smart actions preference). Smart actions allows you to setup custom behaviors when your device goes in standby. If, for example, you turn on the wifi smart action, wifi will be turned off, and back on, when the standby mode is inserted/removed. Currently there are 4 smart actions available: Wifi, Bluetooth, Data and Sync. These actions, will extend the battery life of your device up to 300%!</string>
+    <string name="tips_zipalign">You didn't zipalign your app yet! Zipalign decreases the RAM usage of your apps. Tap here to begin!</string>
+    <string name="tips_screenstate">This tool allows you to use the Android Tweaker 2 smart actions. Smart actions can be enabled through preferences panel (in app), a widget or the smart notification (activable in the smart actions preference). Smart actions allows you to setup custom behaviors when your device goes in standby. If, for example, you turn on the wifi smart action, wifi will be turned off, and back on, when the standby mode is inserted/removed. Currently there are 4 smart actions available: Wifi, Bluetooth, Data and Sync. These actions will extend the battery life of your device up to 300%!</string>
     <string name="tips_font">This addon allows you to change your system font with one tap. Choose between the 20+ proposed font and if you don\'t like the one you installed, simply tap on the reset button to restore your original one!</string>
     <string name="tips_weather">This addon allows you to create a custom notification with weather informations based on your GPS location or custom location.</string>
 
@@ -111,21 +111,21 @@
     <string name="debugeglprofiler_title">EGL Profiler debug</string>
     <string name="debugeglprofiler_summary">Enable or disable EGL Profiler debug. Gives a little extra system performance</string>
     <string name="min_fling_title">Minimum fling velocity</string>
-    <string name="min_fling_summary">Increase or decrese min fling veocity. Gives a better scroll and smothness. We suggest to rise this to max</string>
+    <string name="min_fling_summary">Increase or decrese min fling veocity. Gives a better scroll and smoothness. We suggest to rise this to max</string>
     <string name="max_fling_title">Maximum fling velocity</string>
-    <string name="max_fling_summary">Increase or decrese max fling veocity. Gives a better scroll and smothness. We suggest to rise this to max</string>
+    <string name="max_fling_summary">Increase or decrese max fling veocity. Gives a better scroll and smoothness. We suggest to rise this to max</string>
     <string name="multitouch_title">Multitouch</string>
     <string name="multitouch_summary">Enable or disable multitouch. This is not working on all devices. Gives extra system performance and decrease battery drain</string>
     <string name="max_event_title">Max events per sec</string>
-    <string name="max_event_summary">Increase or decrease max events per second. Gives a better scroll and smothness. For low ram devices we suggest to put this to 150 or below.</string>
+    <string name="max_event_summary">Increase or decrease max events per second. Gives a better scroll and smoothness. For low ram devices we suggest to put this to 150 or below.</string>
     <string name="pointer_dur_title">Pointer duration</string>
-    <string name="pointer_dur_summary">Decrease pointer duration. Gives a better scroll and smothness</string>
+    <string name="pointer_dur_summary">Decrease pointer duration. Gives a better scroll and smoothness</string>
 
     <!-- BATTERY -->
     <string name="power_collapse">Power collapse</string>
     <string name="power_collapse_summary">Change power collapse behavior. Helps to relieve pressur on CPU</string>
     <string name="sleep_mode">PM sleep mode</string>
-    <string name="sleep_mode_summary">Change sleep mode behavior. Helps to relieve CPU pressure during sleep</string>
+    <string name="sleep_mode_summary">Change sleep mode behavior. Helps to relieve CPU consumption during sleep</string>
     <string name="wifi_scan_interval">Wifi scan interval</string>
     <string name="wifi_scan_interval_summary">Decrease wifi scan interval and saves some battery</string>
     
@@ -145,9 +145,9 @@
     <string name="ipv6">IPV6</string>
     <string name="ipv6_summary">Extends support for IPV6 protocol</string>
     <string name="cust_tel">Cust telephony</string>
-    <string name="cust_tel_summary">Enable or disable this tweak to increase a bit your signal reception</string>
+    <string name="cust_tel_summary">Enable or disable this tweak to increase your signal reception a bit</string>
     <string name="fast_dormancy">Fast dormancy</string>
-    <string name="fast_dormancy_summary">Enable or disable this tweak to increase a bit your signal reception</string>
+    <string name="fast_dormancy_summary">Enable or disable this tweak to increase your signal reception a bit</string>
 
     <!-- MEDIA -->
     <string name="jpeg_quality">JPEG quality</string>
@@ -248,7 +248,7 @@
     <string name="dns_restoreing">Restoring original DNS…</string>
 
     <!-- INITD -->
-    <string name="initd_error">Your device doesn\'t support Init.D tweaks</string>
+    <string name="initd_error">Your device doesn't support Init.D tweaks</string>
     <string name="title_general_performance_initd_summary">Collection of init.d scripts that will increase the performances on your device</string>
     <string name="title_battery_initd_summary">Collection of init.d scripts that will extend the battery life of your device</string>
     <string name="title_network_initd_summary">Collection of init.d scripts that will tune your network speed</string>
